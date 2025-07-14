@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About Me | Lavish Kumar</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>About Me</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="projects.html">Projects</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <p>I'm Lavish Kumar, a front-end web developer currently pursuing MSW from Kurukshetra University. I enjoy designing clean and responsive websites.</p>
+</main>
+
+<footer>
+  &copy; 2025 Lavish Kumar
+</footer>
+
+</body>
+</html>
